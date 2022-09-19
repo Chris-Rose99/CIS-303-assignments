@@ -1,0 +1,14 @@
+Christopher Rose
+Algorithm Analysis Assignment 4b
+Ackermann
+
+Problem: The ackermann assignment required us to implement a stack using an Array list or a Link list.
+Afterwards use the stack to implement Ackermann's function. We are then asked to compare the 
+run times between this method and a recursive method.
+
+Testing Criteria: This program should be given 2 inputs "x y". When running these algorithms it is expected that they produced a solution to ackermanns formula based on the 
+inputs and the run time of the program, indicated by "runtime:"
+
+Execution: To compile this the user should input "javac ackermann.java AckermannClient.java"
+to run this algorithm the user should input "java AckermannClient x y" where x and y 
+are Ackermann(x, y).
